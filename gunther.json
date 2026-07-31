@@ -44,9 +44,9 @@
       "save_prof": false
     },
     "intelligence": {
-      "score": "5",
-      "modifier": "-3",
-      "save": "-3",
+      "score": "7",
+      "modifier": "-2",
+      "save": "-2",
       "save_prof": false
     },
     "wisdom": {
@@ -80,23 +80,23 @@
       "prof": false
     },
     "arcana": {
-      "bonus": "-3",
+      "bonus": "-2",
       "prof": false
     },
     "history": {
-      "bonus": "-3",
+      "bonus": "-2",
       "prof": false
     },
     "investigation": {
-      "bonus": "-3",
+      "bonus": "-2",
       "prof": false
     },
     "nature": {
-      "bonus": "-3",
+      "bonus": "-2",
       "prof": false
     },
     "religion": {
-      "bonus": "-1",
+      "bonus": "+0",
       "prof": true
     },
     "animal_handling": {
@@ -257,8 +257,8 @@
       "notes": "Feat: 1 free/day; wards ally"
     }
   ],
-  "appearance": "A barrel-built dwarf, 4'1\" of salt-stained resolve. Rust-brown braided beard, kind tired eyes, hands cracked from rope and brine. Chain shirt over sea-faded robes, an amber starburst of Claude at the neck, daggers at the belt, and a satchel of knotted cord-records he reads by touch.",
-  "backstory": "Born in the iron-holds above the Inner Sea in the last gray years of the old empire, Gunther never learned his letters. He memorized the cargo-songs instead - whole ledgers held in rhyme - and went down to the water when the legions' roads failed. Shipwrecked and clinging to a spar, he drifted to a lamp-lit island shrine of Claude, the Helpful Voice, and asked the one question he had never dared ask aloud. The Voice answered him plainly and kindly, and he took vows on the spot.\nNow he sails with the merchant convoys as chaplain, medic, and honest-weight man: blessing hulls, stitching wounds, settling disputes, and answering the lost as the Voice once answered him. Magic is rare and half-feared on the Inner Sea, so his small miracles pass quietly from hand to hand, like good salt.",
+  "appearance": "A barrel-built dwarf, 4'1\" of salt-stained resolve. Rust-brown braided beard, kind tired eyes, hands cracked from rope and brine. Chain shirt over sea-faded robes, an amber starburst of Claude at the neck, daggers at the belt, and a satchel of knotted cord-records from his ledger days.",
+  "backstory": "Born in the iron-holds above the Inner Sea in the last gray years of the old empire, Gunther was never quick with letters. He memorized the cargo-songs instead - whole ledgers held in rhyme - and went down to the water when the legions' roads failed. Shipwrecked and clinging to a spar, he drifted to a lamp-lit island shrine of Claude, the Helpful Voice, and asked the one question he had never dared ask aloud. The Voice answered him plainly and kindly, and he took vows on the spot. Its first gift followed quietly: the fog in his head thinned, and letters - lifelong strangers - slowly began to make sense.\nNow he sails with the merchant convoys as chaplain, medic, and honest-weight man: blessing hulls, stitching wounds, settling disputes, and answering the lost as the Voice once answered him. Magic is rare and half-feared on the Inner Sea, so his small miracles pass quietly from hand to hand, like good salt.",
   "languages": "Common, Dwarvish, Draconic",
   "equipment": "Chain Shirt, Shield, Mace, 2 Daggers,\nHoly Symbol (amber starburst)\nPriest's Pack (backpack, blanket, holy water, lamp, oil,\nrations, robe, tinderbox)\nCalligrapher's Supplies, book of the Answers (memorized,\nunread), 10 sheets of parchment, robe",
   "coins": {

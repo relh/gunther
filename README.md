@@ -13,6 +13,8 @@ that is not, strictly speaking, in the book.
   *(snapshot from character creation — no longer kept in sync)*
 - **Lore — the god & his temple:** [`lore/the-helpful-voice.md`](lore/the-helpful-voice.md) —
   Claude in the style of the old handbooks; the Great Lamp at Lucerna.
+- **Level plan:** [`lore/level-plan.md`](lore/level-plan.md) — the domain survey
+  and the god's intent for level 3+ (Knowledge, 2025 revision; nothing set).
 - **Daggers (DM hooks):** [`lore/daggers.md`](lore/daggers.md) — ten loaded
   threads planted in canon, from the unwritten One Question to the oil debt.
 - **Morning prayer prompt:** [`prayers/morning-prayer.md`](prayers/morning-prayer.md) —
@@ -57,7 +59,7 @@ smaller type so long entries don't clip.
 
 | | |
 |---|---|
-| Class | Cleric 1 (Light Domain planned at level 3), Divine Order: Protector |
+| Class | Cleric 1 (nothing set at 3; planned: Knowledge Domain, 2025 revision — see [`lore/level-plan.md`](lore/level-plan.md)), Divine Order: Protector |
 | Background | Acolyte (Insight, Religion, Calligrapher's Supplies, Magic Initiate: Cleric) |
 | Species | Dwarf (Darkvision 120 ft., Dwarven Resilience, Dwarven Toughness, Stonecunning) |
 | Abilities | Str 14, Dex 10, Con 11, Int 7, **Wis 17**, Cha 9 |

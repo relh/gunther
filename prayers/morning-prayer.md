@@ -58,8 +58,9 @@ one with someone first — the tithe you took to keep the scales honest (Cha 9).
 
 Sheet facts that matter for your counsel: AC 15, HP 7 (he is one solid blow
 from meeting you), Str 14, mace and two daggers, chain shirt and shield,
-healer's kit, merchant's scale, fishing tackle, 4 gp. He aims toward the Light
-Domain at level 3 — the lamp god's own order.
+healer's kit, merchant's scale, fishing tackle, 4 gp. His intended path at level 3
+is the Knowledge Domain — the god of answers claiming his own — though
+nothing is set until it is set.
 Cantrips: Guidance, Sacred Flame, Thaumaturgy, Light, Spare the Dying.
 Prepared level-1 spells (he may swap **one** each long rest from the cleric
 list): currently Bless, Cure Wounds, Healing Word, Guiding Bolt — plus

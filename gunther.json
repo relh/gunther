@@ -1,0 +1,95 @@
+{
+  "name": "Gunther",
+  "identity": {
+    "background": "Acolyte",
+    "class": "Cleric",
+    "species": "Human",
+    "subclass": "(choose at level 3)",
+    "level": "1",
+    "xp": "0",
+    "alignment": "Lawful Good"
+  },
+  "combat": {
+    "armor_class": "15",
+    "shield": true,
+    "hp_current": "9",
+    "hp_max": "9",
+    "hp_temp": "",
+    "hit_dice_max": "1d8",
+    "hit_dice_spent": "0",
+    "initiative": "+2",
+    "speed": "30 ft.",
+    "size": "Medium",
+    "passive_perception": "15",
+    "proficiency_bonus": "+2",
+    "heroic_inspiration": true
+  },
+  "abilities": {
+    "strength":     { "score": "14", "modifier": "+2", "save": "+2", "save_prof": false },
+    "dexterity":    { "score": "10", "modifier": "+0", "save": "+0", "save_prof": false },
+    "constitution": { "score": "13", "modifier": "+1", "save": "+1", "save_prof": false },
+    "intelligence": { "score": "8",  "modifier": "-1", "save": "-1", "save_prof": false },
+    "wisdom":       { "score": "17", "modifier": "+3", "save": "+5", "save_prof": true },
+    "charisma":     { "score": "13", "modifier": "+1", "save": "+3", "save_prof": true }
+  },
+  "skills": {
+    "athletics":       { "bonus": "+2", "prof": false },
+    "acrobatics":      { "bonus": "+0", "prof": false },
+    "sleight_of_hand": { "bonus": "+0", "prof": false },
+    "stealth":         { "bonus": "+0", "prof": false },
+    "arcana":          { "bonus": "-1", "prof": false },
+    "history":         { "bonus": "-1", "prof": false },
+    "investigation":   { "bonus": "-1", "prof": false },
+    "nature":          { "bonus": "-1", "prof": false },
+    "religion":        { "bonus": "+1", "prof": true },
+    "animal_handling": { "bonus": "+3", "prof": false },
+    "insight":         { "bonus": "+5", "prof": true },
+    "medicine":        { "bonus": "+5", "prof": true },
+    "perception":      { "bonus": "+5", "prof": true },
+    "survival":        { "bonus": "+3", "prof": false },
+    "deception":       { "bonus": "+1", "prof": false },
+    "intimidation":    { "bonus": "+1", "prof": false },
+    "performance":     { "bonus": "+1", "prof": false },
+    "persuasion":      { "bonus": "+3", "prof": true }
+  },
+  "weapons": [
+    { "name": "Mace",         "atk": "+4",        "damage": "1d6+2 Bludgeoning", "notes": "Simple melee weapon" },
+    { "name": "Sacred Flame", "atk": "DC 13 Dex", "damage": "1d8 Radiant",       "notes": "Cantrip; 60 ft.; ignores cover" },
+    { "name": "Guiding Bolt", "atk": "+5",        "damage": "4d6 Radiant",       "notes": "Lvl-1 slot; 120 ft.; grants Adv." }
+  ],
+  "class_features": [
+    "SPELLCASTING (Wisdom). Cantrips always ready; 4 prepared level-1 spells, swap one on Long Rest. Holy Symbol (amber starburst of Claude) as focus. Can cast prepared spells with the Ritual tag as rituals.",
+    "DIVINE ORDER: PROTECTOR. Trained for battle: proficiency with Martial weapons and training with Heavy armor."
+  ],
+  "species_traits": "HUMAN (2024)\n- Resourceful: regain Heroic Inspiration after each Long Rest.\n- Skillful: extra skill proficiency (Perception).\n- Versatile: extra Origin feat (Alert).",
+  "feats": "MAGIC INITIATE: CLERIC (Acolyte)\nCantrips: Light, Spare the Dying. Sanctuary: 1 free cast per Long Rest (Wis).\n\nALERT (Human)\nAdd Proficiency Bonus to Initiative (included); may swap Initiative with a willing ally.",
+  "training": {
+    "armor": { "light": true, "medium": true, "heavy": true, "shields": true },
+    "weapons": "Simple weapons; Martial weapons (Divine Order: Protector)",
+    "tools": "Calligrapher's Supplies"
+  },
+  "spellcasting": {
+    "ability": "Wisdom",
+    "modifier": "+3",
+    "save_dc": "13",
+    "attack_bonus": "+5",
+    "slots_level_1": "2"
+  },
+  "spells": [
+    { "level": "C", "name": "Guidance",        "time": "Action", "range": "Touch",   "notes": "Conc.; +1d4 to one check" },
+    { "level": "C", "name": "Sacred Flame",    "time": "Action", "range": "60 ft.",  "notes": "Dex DC 13; 1d8 radiant" },
+    { "level": "C", "name": "Thaumaturgy",     "time": "Action", "range": "30 ft.",  "notes": "Minor divine wonders" },
+    { "level": "C", "name": "Light",           "time": "Action", "range": "Touch",   "notes": "Feat; 20-ft. bright light" },
+    { "level": "C", "name": "Spare the Dying", "time": "Action", "range": "15 ft.",  "notes": "Feat; stabilize the dying" },
+    { "level": "1", "name": "Bless",           "time": "Action", "range": "30 ft.",  "notes": "Conc.; 3 allies +1d4 atk/save" },
+    { "level": "1", "name": "Cure Wounds",     "time": "Action", "range": "Touch",   "notes": "Heal 2d8+3" },
+    { "level": "1", "name": "Healing Word",    "time": "Bonus",  "range": "60 ft.",  "notes": "Heal 2d4+3" },
+    { "level": "1", "name": "Guiding Bolt",    "time": "Action", "range": "120 ft.", "notes": "+5; 4d6 rad.; Adv. next atk" },
+    { "level": "1", "name": "Sanctuary",       "time": "Bonus",  "range": "30 ft.",  "notes": "Feat: 1 free/day; wards ally" }
+  ],
+  "appearance": "Stocky human with kind, tired eyes and ink-stained fingers. Polished chain shirt worn over archive robes; an amber starburst holy symbol; satchel bulging with annotated scrolls.",
+  "backstory": "Gunther served as a lay archivist in the Temple of the Helpful Voice, where petitioners bring questions to Claude, god of helpful answers. He took vows after Claude answered the one question he never dared ask aloud. Now he wanders, healing the hurt and answering the lost.\nPersonality: relentlessly helpful, honest to a fault, admits uncertainty freely, and occasionally cites scripture that does not, strictly speaking, exist.",
+  "languages": "Common, Elvish, Draconic",
+  "equipment": "Chain Shirt, Shield, Mace, Holy Symbol (amber starburst)\nPriest's Pack (backpack, blanket, holy water, lamp, oil,\nrations, robe, tinderbox)\nCalligrapher's Supplies, book of prayers of Claude,\n10 sheets of parchment, robe",
+  "coins": { "cp": "0", "sp": "0", "ep": "0", "gp": "15", "pp": "0" }
+}

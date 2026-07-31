@@ -10,14 +10,14 @@
     "alignment": "Lawful Good"
   },
   "combat": {
-    "armor_class": "14",
+    "armor_class": "15",
     "shield": true,
     "hp_current": "6",
     "hp_max": "6",
     "hp_temp": "",
     "hit_dice_max": "1d8",
     "hit_dice_spent": "0",
-    "initiative": "+1",
+    "initiative": "+2",
     "speed": "30 ft.",
     "size": "Medium",
     "passive_perception": "15",
@@ -32,9 +32,9 @@
       "save_prof": false
     },
     "dexterity": {
-      "score": "9",
-      "modifier": "-1",
-      "save": "-1",
+      "score": "10",
+      "modifier": "+0",
+      "save": "+0",
       "save_prof": false
     },
     "constitution": {
@@ -56,7 +56,7 @@
       "save_prof": true
     },
     "charisma": {
-      "score": "11",
+      "score": "10",
       "modifier": "+0",
       "save": "+2",
       "save_prof": true
@@ -68,15 +68,15 @@
       "prof": false
     },
     "acrobatics": {
-      "bonus": "-1",
+      "bonus": "+0",
       "prof": false
     },
     "sleight_of_hand": {
-      "bonus": "-1",
+      "bonus": "+0",
       "prof": false
     },
     "stealth": {
-      "bonus": "-1",
+      "bonus": "+0",
       "prof": false
     },
     "arcana": {

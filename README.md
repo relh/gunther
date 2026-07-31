@@ -35,9 +35,15 @@ smaller type so long entries don't clip.
 | Class | Cleric 1 (subclass at level 3), Divine Order: Protector |
 | Background | Acolyte (Insight, Religion, Calligrapher's Supplies, Magic Initiate: Cleric) |
 | Species | Human (Skillful: Perception, Versatile: Alert) |
-| Abilities | Str 14, Dex 10, Con 13, Int 8, **Wis 17**, Cha 13 |
-| Combat | AC 15 (chain shirt + shield), HP 9, Initiative +2, Speed 30 ft. |
+| Abilities | Str 14, Dex 9, Con 11, Int 5, **Wis 17**, Cha 11 |
+| Combat | AC 14 (chain shirt + shield), HP 6, Initiative +1, Speed 30 ft. |
 | Cantrips | Guidance, Sacred Flame, Thaumaturgy, Light*, Spare the Dying* |
 | Prepared | Bless, Cure Wounds, Healing Word, Guiding Bolt, Sanctuary* |
 
 \* from Magic Initiate (Cleric), Wisdom-based; Sanctuary free once per Long Rest.
+
+Ability scores were **rolled** (4d6 drop lowest, one genuine run, no rerolls):
+`[1,4,4,6]→14 · [1,2,3,4]→9 · [3,4,5,6]→15 · [1,1,1,3]→5 · [1,2,3,6]→11 · [1,1,4,5]→10`,
+assigned Wis 15, Str 14, Con 11, Cha 10, Dex 9, Int 5 (Acolyte adds +2 Wis, +1 Cha).
+Level 1 HP was likewise rolled: **1d8 = 6**. The dice owed us nothing and delivered
+accordingly; Gunther's Int 5 is now canon.

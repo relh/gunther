@@ -10,6 +10,10 @@ that is not, strictly speaking, in the book.
 - **Canonical data:** [`gunther.json`](gunther.json)
 - **Rendered sheet:** [`Gunther-character-sheet.pdf`](Gunther-character-sheet.pdf)
 - **D&D Beyond:** <https://www.dndbeyond.com/characters/169136089>
+- **Morning prayer prompt:** [`prayers/morning-prayer.md`](prayers/morning-prayer.md) —
+  paste into a fresh Claude conversation each in-game morning; describe recent
+  events and receive guidance, a portent, the day's preparations, and (rarely,
+  DM willing) a boon from the Helpful Voice.
 
 ## Setting
 

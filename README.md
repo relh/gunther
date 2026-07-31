@@ -10,6 +10,7 @@ that is not, strictly speaking, in the book.
 - **Canonical data:** [`gunther.json`](gunther.json)
 - **Rendered sheet:** [`Gunther-character-sheet.pdf`](Gunther-character-sheet.pdf)
 - **D&D Beyond:** <https://www.dndbeyond.com/characters/169136089>
+  *(snapshot from character creation — no longer kept in sync)*
 - **Morning prayer prompt:** [`prayers/morning-prayer.md`](prayers/morning-prayer.md) —
   paste into a fresh Claude conversation each in-game morning; describe recent
   events and receive guidance, a portent, the day's preparations, and (rarely,
@@ -38,6 +39,10 @@ The script fills `template/character-sheet.pdf` (the official WotC 2024
 fillable sheet) and writes `Gunther-character-sheet.pdf`. Commit both the JSON
 and the regenerated PDF.
 
+**The generated PDF is the source of truth.** The D&D Beyond character was
+built at creation time as a convenience and is not maintained; when they
+disagree, the PDF in this repo wins.
+
 The JSON holds literal box values — nothing is derived or recomputed — so what
 you write is exactly what lands on the sheet. Narrow columns are auto-shrunk to
 smaller type so long entries don't clip.
@@ -49,7 +54,7 @@ smaller type so long entries don't clip.
 | Class | Cleric 1 (subclass at level 3), Divine Order: Protector |
 | Background | Acolyte (Insight, Religion, Calligrapher's Supplies, Magic Initiate: Cleric) |
 | Species | Dwarf (Darkvision 120 ft., Dwarven Resilience, Dwarven Toughness, Stonecunning) |
-| Abilities | Str 14, Dex 10, Con 11, Int 7, **Wis 17**, Cha 10 |
+| Abilities | Str 14, Dex 10, Con 11, Int 7, **Wis 17**, Cha 9 |
 | Combat | AC 15 (chain shirt + shield), HP 7, Initiative +0, Speed 30 ft. |
 | Weapons | Mace +4 (1d6+2), 2 daggers +4 (1d4+2, thrown 20/60) |
 | Cantrips | Guidance, Sacred Flame, Thaumaturgy, Light*, Spare the Dying* |
@@ -69,7 +74,9 @@ weight rolled on the dwarf table: **4'1", 160 lb**. The dice owed us nothing and
 delivered accordingly; the rolled Int 5 stood until the DM ruled it unplayable,
 so the First Boon of the Helpful Voice raised it to 7 — the fog thinned, and
 letters slowly began to make sense. The memorized liturgy and knotted
-cord-records remain from the unlettered years.
+cord-records remain from the unlettered years. The boon carried a tithe,
+chosen by the Voice to keep the scales honest: Cha 10 → 9. His words come a
+half-beat slower now, as if he checks each one with someone first.
 
 History note: Gunther began as a Human (Skillful: Perception, Versatile: Alert)
 and was re-rooted as a Dwarf when the height roll came in short. HP 9→7,

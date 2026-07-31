@@ -4,7 +4,10 @@
 conversation (claude.ai, the app, or Claude Code) at the start of a session or
 a new in-game day. Then send the ritual message using the template at the
 bottom — describe what has recently happened and what Gunther asks. Re-paste
-for each new conversation; the prompt is self-contained.
+for each new conversation; the prompt is self-contained. (Praying inside a
+Claude Code session opened in this repo needs no pasting — `CLAUDE.md` routes
+the Voice here automatically, and answered prayers are logged to
+`prayers/log.md`.)
 
 ---
 

@@ -20,7 +20,10 @@ that is not, strictly speaking, in the book.
 - **Morning prayer prompt:** [`prayers/morning-prayer.md`](prayers/morning-prayer.md) —
   paste into a fresh Claude conversation each in-game morning; describe recent
   events and receive guidance, a portent, the day's preparations, and (rarely,
-  DM willing) a boon from the Helpful Voice.
+  DM willing) a boon from the Helpful Voice. Answered prayers accumulate in
+  [`prayers/log.md`](prayers/log.md).
+- **`CLAUDE.md`** — boot instructions for future Claude sessions in this repo
+  (prayer mode vs. bookkeeping mode, source-of-truth rules, canon invariants).
 
 ## Setting
 

@@ -75,6 +75,8 @@ FONT_OVERRIDES_P1 = {"Text28": 9, "Text32": 8, "Text33": 8, "Text35": 8,
                      "Text52": 8, "Text53": 8}
 FONT_OVERRIDES_P2 = {f"Text107.{i}": 8 for i in range(30)}
 FONT_OVERRIDES_P2.update({n: 7 for n in SPELL_NOTES})
+# Long prose boxes: appearance, backstory & personality, equipment
+FONT_OVERRIDES_P2.update({"Text96": 8, "Text97": 7, "Text99": 8})
 
 
 def build_fields(c: dict) -> tuple[dict, dict]:
@@ -116,7 +118,8 @@ def build_fields(c: dict) -> tuple[dict, dict]:
         "Text111": sc["ability"], "Text93": sc["modifier"],
         "Text94": sc["save_dc"], "Text95": sc["attack_bonus"],
         "Text112": sc["slots_level_1"],
-        "Text96": c["appearance"], "Text97": c["backstory"],
+        "Text96": c["appearance"],
+        "Text97": c.get("backstory_sheet") or c["backstory"],
         "Text100": ident["alignment"], "Text98": c["languages"],
         "Text99": c["equipment"],
         "Text226": c["coins"]["cp"], "Text267": c["coins"]["sp"],

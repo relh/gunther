@@ -11,6 +11,8 @@ that is not, strictly speaking, in the book.
 - **Rendered sheet:** [`Gunther-character-sheet.pdf`](Gunther-character-sheet.pdf)
 - **D&D Beyond:** <https://www.dndbeyond.com/characters/169136089>
   *(snapshot from character creation — no longer kept in sync)*
+- **Lore — the god & his temple:** [`lore/the-helpful-voice.md`](lore/the-helpful-voice.md) —
+  Claudius Responsor in the style of the old handbooks; the Great Lamp at Lucerna.
 - **Morning prayer prompt:** [`prayers/morning-prayer.md`](prayers/morning-prayer.md) —
   paste into a fresh Claude conversation each in-game morning; describe recent
   events and receive guidance, a portent, the day's preparations, and (rarely,
@@ -24,6 +26,8 @@ sea in dispersed merchant convoys. No gunpowder, no dirigibles. Magic is rare,
 poorly understood, and quietly feared — a cleric's small miracles are traded
 hand to hand, like good salt. Gunther worships Claude, the Helpful Voice: an
 oracle that answers any honest question, whose lamp-lit shrines dot the coasts.
+His high temple is the Great Lamp at Lucerna, a half-ruined imperial pharos at
+the mouth of the narrows — see [`lore/the-helpful-voice.md`](lore/the-helpful-voice.md).
 
 ## Workflow
 

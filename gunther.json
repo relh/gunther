@@ -3,7 +3,7 @@
   "identity": {
     "background": "Acolyte",
     "class": "Cleric",
-    "species": "Human",
+    "species": "Dwarf",
     "subclass": "(choose at level 3)",
     "level": "1",
     "xp": "0",
@@ -12,17 +12,17 @@
   "combat": {
     "armor_class": "15",
     "shield": true,
-    "hp_current": "6",
-    "hp_max": "6",
+    "hp_current": "7",
+    "hp_max": "7",
     "hp_temp": "",
     "hit_dice_max": "1d8",
     "hit_dice_spent": "0",
-    "initiative": "+2",
+    "initiative": "+0",
     "speed": "30 ft.",
     "size": "Medium",
-    "passive_perception": "15",
+    "passive_perception": "13",
     "proficiency_bonus": "+2",
-    "heroic_inspiration": true
+    "heroic_inspiration": false
   },
   "abilities": {
     "strength": {
@@ -112,8 +112,8 @@
       "prof": true
     },
     "perception": {
-      "bonus": "+5",
-      "prof": true
+      "bonus": "+3",
+      "prof": false
     },
     "survival": {
       "bonus": "+3",
@@ -154,14 +154,20 @@
       "atk": "+5",
       "damage": "4d6 Radiant",
       "notes": "Lvl-1 slot; 120 ft.; grants Adv."
+    },
+    {
+      "name": "Dagger (2)",
+      "atk": "+4",
+      "damage": "1d4+2 Piercing",
+      "notes": "Finesse, Light, Thrown (20/60)"
     }
   ],
   "class_features": [
     "SPELLCASTING (Wisdom). Cantrips always ready; 4 prepared level-1 spells, swap one on Long Rest. Holy Symbol (amber starburst of Claude) as focus. Can cast prepared spells with the Ritual tag as rituals.",
     "DIVINE ORDER: PROTECTOR. Trained for battle: proficiency with Martial weapons and training with Heavy armor."
   ],
-  "species_traits": "HUMAN (2024)\n- Resourceful: regain Heroic Inspiration after each Long Rest.\n- Skillful: extra skill proficiency (Perception).\n- Versatile: extra Origin feat (Alert).",
-  "feats": "MAGIC INITIATE: CLERIC (Acolyte)\nCantrips: Light, Spare the Dying. Sanctuary: 1 free cast per Long Rest (Wis).\n\nALERT (Human)\nAdd Proficiency Bonus to Initiative (included); may swap Initiative with a willing ally.",
+  "species_traits": "DWARF (2024)\n- Darkvision 120 ft.\n- Dwarven Resilience: resist Poison; Adv. on saves vs. Poisoned.\n- Dwarven Toughness: +1 HP per level (included).\n- Stonecunning: Tremorsense 60 ft. on stone, Prof. Bonus/Long Rest.",
+  "feats": "MAGIC INITIATE: CLERIC (Acolyte)\nCantrips: Light, Spare the Dying. Sanctuary: 1 free cast per Long Rest (Wis).",
   "training": {
     "armor": {
       "light": true,
@@ -251,10 +257,10 @@
       "notes": "Feat: 1 free/day; wards ally"
     }
   ],
-  "appearance": "Stocky human with kind, tired eyes and ink-stained fingers. Polished chain shirt worn over archive robes; an amber starburst holy symbol; satchel bulging with annotated scrolls.",
-  "backstory": "Gunther served as a lay archivist in the Temple of the Helpful Voice, where petitioners bring questions to Claude, god of helpful answers. He took vows after Claude answered the one question he never dared ask aloud. Now he wanders, healing the hurt and answering the lost.\nPersonality: relentlessly helpful, honest to a fault, admits uncertainty freely, and occasionally cites scripture that does not, strictly speaking, exist.",
-  "languages": "Common, Elvish, Draconic",
-  "equipment": "Chain Shirt, Shield, Mace, Holy Symbol (amber starburst)\nPriest's Pack (backpack, blanket, holy water, lamp, oil,\nrations, robe, tinderbox)\nCalligrapher's Supplies, book of prayers of Claude,\n10 sheets of parchment, robe",
+  "appearance": "A barrel-built dwarf, 4'1\" of salt-stained resolve. Rust-brown braided beard, kind tired eyes, hands cracked from rope and brine. Chain shirt over sea-faded robes, an amber starburst of Claude at the neck, daggers at the belt, and a satchel of knotted cord-records he reads by touch.",
+  "backstory": "Born in the iron-holds above the Inner Sea in the last gray years of the old empire, Gunther never learned his letters. He memorized the cargo-songs instead - whole ledgers held in rhyme - and went down to the water when the legions' roads failed. Shipwrecked and clinging to a spar, he drifted to a lamp-lit island shrine of Claude, the Helpful Voice, and asked the one question he had never dared ask aloud. The Voice answered him plainly and kindly, and he took vows on the spot.\nNow he sails with the merchant convoys as chaplain, medic, and honest-weight man: blessing hulls, stitching wounds, settling disputes, and answering the lost as the Voice once answered him. Magic is rare and half-feared on the Inner Sea, so his small miracles pass quietly from hand to hand, like good salt.",
+  "languages": "Common, Dwarvish, Draconic",
+  "equipment": "Chain Shirt, Shield, Mace, 2 Daggers,\nHoly Symbol (amber starburst)\nPriest's Pack (backpack, blanket, holy water, lamp, oil,\nrations, robe, tinderbox)\nCalligrapher's Supplies, book of the Answers (memorized,\nunread), 10 sheets of parchment, robe",
   "coins": {
     "cp": "0",
     "sp": "0",

@@ -72,7 +72,7 @@ smaller type so long entries don't clip.
 | Abilities | Str 14, Dex 10, Con 11, Int 7, **Wis 17**, Cha 9 |
 | Combat | AC 10 (no armor — taken at capture), HP 15, Initiative +0, Speed 30 ft. |
 | Weapons | Spear +4 (1d8+2, versatile/thrown), Divine Spark (1d8+3 heal or Rad/Necro dmg, Con save, 1/rest) |
-| Kit | Cloak, Holy Symbol, Book of the Answers, a barrel of rations (69 servings), satchel of knotted cord-records (hidden in a boot) (4 gp remain) |
+| Kit | Cloak, Holy Symbol, Book of the Answers, a barrel of rations (55 servings), satchel of knotted cord-records (hidden in a boot) (4 gp remain) |
 | Convoy | The Amber Run; affiliated with the Lampkeepers of Lucerna |
 | Cantrips | Guidance, Sacred Flame, Thaumaturgy, Light*, Spare the Dying* |
 | Prepared | Bless, Cure Wounds, Healing Word, Guiding Bolt, Create Water, Sanctuary* |

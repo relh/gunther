@@ -63,7 +63,7 @@ the god help" — it is "what is this worth to you," asked kindly.
 
 ## 8. False Scales
 
-Gunther is the convoy's honest-weight man; his word settles disputes over
+Gunther is the convoy's self-declared honest-weight man; his word settles disputes over
 cargo. His credibility is collateral posted against every merchant he has
 ever vouched for.
 **Pull it when:** one of them is cheating — the kind, well-liked one — and

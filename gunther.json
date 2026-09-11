@@ -20,7 +20,7 @@
     "initiative": "+0",
     "speed": "30 ft.",
     "size": "Medium",
-    "passive_perception": "13",
+    "passive_perception": "15",
     "proficiency_bonus": "+2",
     "heroic_inspiration": false
   },
@@ -108,12 +108,12 @@
       "prof": true
     },
     "medicine": {
-      "bonus": "+5",
-      "prof": true
-    },
-    "perception": {
       "bonus": "+3",
       "prof": false
+    },
+    "perception": {
+      "bonus": "+5",
+      "prof": true
     },
     "survival": {
       "bonus": "+3",

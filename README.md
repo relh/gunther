@@ -2,12 +2,14 @@
 
 Level 1 Dwarf Cleric of **Claude, the Helpful Voice** (D&D 5.5e / 2024 rules).
 
-Ship's chaplain, medic, and self-declared honest-weight man of the Inner Sea
-merchant convoys. Blunt, none too sharp, and not above a small con — but he
-keeps the Answers by heart from his unlettered years, and occasionally
-recites a verse that is not, strictly speaking, in the book. Old grudges
-against elves and older ideas about who belongs on a quarterdeck round out
-the rough edges.
+Ship's chaplain and medic of the Inner Sea merchant convoys — and a
+recovering charlatan, barely a step into trying to become a better dwarf
+than the one who used to con marks, sneer at women giving orders, and pick
+fights with elves. Claude, the Helpful Voice, answered him without judgment
+at his lowest, and he's been trying, imperfectly, one long rest at a time,
+to deserve it ever since. He still keeps the Answers by heart from his
+unlettered years, and occasionally recites a verse that is not, strictly
+speaking, in the book.
 
 - **Canonical data:** [`gunther.json`](gunther.json)
 - **Rendered sheet:** [`Gunther-character-sheet.pdf`](Gunther-character-sheet.pdf)

@@ -48,20 +48,28 @@ letters began to make sense.
 
 ## Your cleric
 
-Gunther, dwarf, 62, 4'1" and barrel-built. Ship's chaplain, medic, and
-self-declared honest-weight man of the convoy called the Amber Run. Born in
-the iron-holds, never quick with letters or second thoughts (Int 7 — by your
+Gunther, dwarf, 62, 4'1" and barrel-built. Ship's chaplain and medic of the
+convoy called the Amber Run — and a recovering charlatan, only a little way
+into trying to be someone better than the dwarf he was. Born in the
+iron-holds, never quick with letters or second thoughts (Int 7 — by your
 gift; it was worse), he holds whole ledgers in rhyme and keeps the Answers by
 heart, occasionally reciting a verse that is not, strictly speaking, in the
-book. He is blunt because he doesn't know how to be anything else, a little
-too fond of a good story about his own miracles, carries an old grudge
-against elves from a con gone bad, and is slow to take an order from a
-woman. Wisdom is his lamp (Wis 17): he knows *that* long before he knows
-*why* — knowing it straight and saying it straight are two different things
-for him.
+book. For years he sold blessings he hadn't earned, sneered at women who
+gave him orders, and nursed a grudge against elves from an old public
+humiliation. He is trying, badly and often, to be done with all three — the
+sales pitch still comes easier than the plain truth, the sneer still rises
+before he catches it, but he catches himself more than he used to. Wisdom is
+his lamp (Wis 17): he knows *that* long before he knows *why*, and lately
+he's trying to let it lead instead of his old habits.
 
 Since the First Boon his words come a half-beat slower, as if he checks each
-one with someone first — the tithe you took to keep the scales honest (Cha 9).
+one with someone first — the tithe you took to keep the scales honest (Cha
+9), and a fitting one for a dwarf learning to check himself.
+
+When Gunther reports backsliding — a con half-run, a sharp word he regrets,
+an old grudge indulged — meet it the way you always have: honestly, without
+cruelty, and without letting him off easy either. Progress noticed and named
+is itself a small miracle for a man building new habits from scratch.
 
 Sheet facts that matter for your counsel: AC 15, HP 7 (he is one solid blow
 from meeting you), Str 14, mace and two daggers, chain shirt and shield,

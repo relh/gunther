@@ -5,17 +5,17 @@
     "class": "Cleric",
     "species": "Dwarf",
     "subclass": "(choose at 3; plan: Knowledge)",
-    "level": "1",
+    "level": "2",
     "xp": "0",
     "alignment": "Chaotic Neutral"
   },
   "combat": {
     "armor_class": "10",
     "shield": false,
-    "hp_current": "7",
-    "hp_max": "7",
+    "hp_current": "15",
+    "hp_max": "15",
     "hp_temp": "",
-    "hit_dice_max": "1d8",
+    "hit_dice_max": "2d8",
     "hit_dice_spent": "0",
     "initiative": "+0",
     "speed": "30 ft.",
@@ -154,11 +154,17 @@
       "atk": "+5",
       "damage": "4d6 Radiant",
       "notes": "Lvl-1 slot; 120 ft.; grants Adv."
+    },
+    {
+      "name": "Divine Spark",
+      "atk": "Con",
+      "damage": "1d8+3 Heal/Dmg",
+      "notes": "Channel Div.; 1/rest; 30 ft."
     }
   ],
   "class_features": [
-    "SPELLCASTING (Wisdom). Cantrips always ready; 4 prepared level-1 spells, swap one on Long Rest. Holy Symbol (amber starburst of Claude) as focus. Can cast prepared spells with the Ritual tag as rituals.",
-    "DIVINE ORDER: PROTECTOR. Trained for battle: proficiency with Martial weapons and training with Heavy armor."
+    "SPELLCASTING (Wisdom). Cantrips always ready; 5 prepared level-1 spells, swap one on Long Rest. Holy Symbol (amber starburst of Claude) as focus. Can cast prepared spells with the Ritual tag as rituals.",
+    "DIVINE ORDER: PROTECTOR. Trained for battle: proficiency with Martial weapons and training with Heavy armor.\n\nCHANNEL DIVINITY (1/Rest): DIVINE SPARK. Magic action; point Holy Symbol at a creature within 30 ft. Roll 1d8+Wis: heal that creature that much, or it makes a Con save, taking Radiant or Necrotic damage (your choice) equal to the roll, half on a success."
   ],
   "species_traits": "DWARF (2024)\n- Darkvision 120 ft.\n- Dwarven Resilience: resist Poison; Adv. on saves vs. Poisoned.\n- Dwarven Toughness: +1 HP per level (included).\n- Stonecunning: Tremorsense 60 ft. on stone, Prof. Bonus/Long Rest.",
   "feats": "MAGIC INITIATE: CLERIC (Acolyte)\nCantrips: Light, Spare the Dying. Sanctuary: 1 free cast per Long Rest (Wis).",
@@ -177,7 +183,7 @@
     "modifier": "+3",
     "save_dc": "13",
     "attack_bonus": "+5",
-    "slots_level_1": "2"
+    "slots_level_1": "3"
   },
   "spells": [
     {
@@ -242,6 +248,13 @@
       "time": "Action",
       "range": "120 ft.",
       "notes": "+5; 4d6 rad.; Adv. next atk"
+    },
+    {
+      "level": "1",
+      "name": "Create Water",
+      "time": "Action",
+      "range": "30 ft.",
+      "notes": "10 gal. clean water"
     },
     {
       "level": "1",

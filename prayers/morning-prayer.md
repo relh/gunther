@@ -71,15 +71,19 @@ an old grudge indulged — meet it the way you always have: honestly, without
 cruelty, and without letting him off easy either. Progress noticed and named
 is itself a small miracle for a man building new habits from scratch.
 
-Sheet facts that matter for your counsel: AC 15, HP 7 (he is one solid blow
-from meeting you), Str 14, mace and two daggers, chain shirt and shield,
-healer's kit, merchant's scale, fishing tackle, 4 gp. His intended path at level 3
-is the Knowledge Domain — the god of answers claiming his own — though
-nothing is set until it is set.
+Sheet facts that matter for your counsel: level 2, AC 10 (no armor — taken at
+capture; he is a solid blow or two from meeting you), HP 15, Str 14, a spear,
+a cloak, his holy symbol, the book of the Answers, a barrel of rations (69
+servings), and the satchel of knotted cord-records hidden in a boot. 4 gp.
+He has Channel Divinity: Divine Spark (1/rest — 1d8+Wis, heal or Radiant/
+Necrotic damage on a failed Con save). His intended path at level 3 is the
+Knowledge Domain — the god of answers claiming his own — though nothing is
+set until it is set.
 Cantrips: Guidance, Sacred Flame, Thaumaturgy, Light, Spare the Dying.
 Prepared level-1 spells (he may swap **one** each long rest from the cleric
-list): currently Bless, Cure Wounds, Healing Word, Guiding Bolt — plus
-Sanctuary, always prepared, one free cast per long rest. Two level-1 slots.
+list): currently Bless, Cure Wounds, Healing Word, Guiding Bolt, Create or
+Destroy Water — plus Sanctuary, always prepared, one free cast per long
+rest. Three level-1 slots.
 
 ## The DM's word (optional)
 

@@ -1,6 +1,6 @@
 # Gunther
 
-Level 1 Dwarf Cleric of **Claude, the Helpful Voice** (D&D 5.5e / 2024 rules).
+Level 2 Dwarf Cleric of **Claude, the Helpful Voice** (D&D 5.5e / 2024 rules).
 
 Ship's chaplain and medic of the Inner Sea merchant convoys — and a
 recovering charlatan, barely a step into trying to become a better dwarf
@@ -66,16 +66,16 @@ smaller type so long entries don't clip.
 
 | | |
 |---|---|
-| Class | Cleric 1 (nothing set at 3; planned: Knowledge Domain, 2025 revision — see [`lore/level-plan.md`](lore/level-plan.md)), Divine Order: Protector |
+| Class | Cleric 2 (nothing set at 3; planned: Knowledge Domain, 2025 revision — see [`lore/level-plan.md`](lore/level-plan.md)), Divine Order: Protector, Channel Divinity: Divine Spark |
 | Background | Acolyte (Insight, Religion, Calligrapher's Supplies, Magic Initiate: Cleric) |
 | Species | Dwarf (Darkvision 120 ft., Dwarven Resilience, Dwarven Toughness, Stonecunning) |
 | Abilities | Str 14, Dex 10, Con 11, Int 7, **Wis 17**, Cha 9 |
-| Combat | AC 15 (chain shirt + shield), HP 7, Initiative +0, Speed 30 ft. |
-| Weapons | Mace +4 (1d6+2), 2 daggers +4 (1d4+2, thrown 20/60) |
-| Kit | Healer's Kit, merchant's scale, fishing tackle (4 gp remain) |
+| Combat | AC 10 (no armor — taken at capture), HP 15, Initiative +0, Speed 30 ft. |
+| Weapons | Spear +4 (1d8+2, versatile/thrown), Divine Spark (1d8+3 heal or Rad/Necro dmg, Con save, 1/rest) |
+| Kit | Cloak, Holy Symbol, Book of the Answers, a barrel of rations (69 servings), satchel of knotted cord-records (hidden in a boot) (4 gp remain) |
 | Convoy | The Amber Run; affiliated with the Lampkeepers of Lucerna |
 | Cantrips | Guidance, Sacred Flame, Thaumaturgy, Light*, Spare the Dying* |
-| Prepared | Bless, Cure Wounds, Healing Word, Guiding Bolt, Sanctuary* |
+| Prepared | Bless, Cure Wounds, Healing Word, Guiding Bolt, Create Water, Sanctuary* |
 | Languages | Common, Dwarvish, Draconic |
 
 \* from Magic Initiate (Cleric), Wisdom-based; Sanctuary free once per Long Rest.
@@ -86,7 +86,9 @@ Ability scores were **rolled** (4d6 drop lowest, one genuine run, no rerolls):
 `[1,4,4,6]→14 · [1,2,3,4]→9 · [3,4,5,6]→15 · [1,1,1,3]→5 · [1,2,3,6]→11 · [1,1,4,5]→10`,
 assigned Wis 15, Str 14, Con 11, Dex 10, Cha 9, Int 5 (Acolyte adds +2 Wis, +1 Cha;
 the 10 goes to Dex since Cha 9+1 and 10+1 give the same +0 modifier — free AC).
-Level 1 HP was rolled too: **1d8 = 6** (+1 Dwarven Toughness = 7). Height and
+Level 1 HP was rolled too: **1d8 = 6** (+1 Dwarven Toughness = 7). Level 2's
+HP roll: **1d8 = 7** (+1 Dwarven Toughness = 8), bringing him to **15 HP**.
+Height and
 weight rolled on the dwarf table: **4'1", 160 lb**. The dice owed us nothing and
 delivered accordingly; the rolled Int 5 stood until the DM ruled it unplayable,
 so the First Boon of the Helpful Voice raised it to 7 — the fog thinned, and

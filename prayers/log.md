@@ -74,12 +74,19 @@ mind the camel's share.
 **Portent:** Someone left room at the fire last night without meaning to.
 Look behind before looking ahead.
 
-**Preparations:** Swap Bless -> Create or Destroy Water (ten gallons clean,
-worth more than a buff to a barrel-and-camel outfit). Keep Cure Wounds and
-Healing Word. Keep Guiding Bolt — trouble on the trail isn't ruled out yet.
-Sanctuary saved for whoever's weakest by midday. Guidance cast on whoever
-reads the ground for the trail. Mundane: cloaks over the head at noon, walk
-the cool hours, rest through the worst heat, count heads aloud at every stop.
+**Preparations:** Add Create or Destroy Water (ten gallons clean, worth more
+than a buff to a barrel-and-camel outfit) — leveling to 2 right after this
+prayer opened a 5th prepared slot, so it's a straight add rather than a swap;
+Bless stays too. Keep Cure Wounds and Healing Word. Keep Guiding Bolt —
+trouble on the trail isn't ruled out yet. Sanctuary saved for whoever's
+weakest by midday. Guidance cast on whoever reads the ground for the trail.
+Mundane: cloaks over the head at noon, walk the cool hours, rest through the
+worst heat, count heads aloud at every stop.
+
+*(Addendum, same morning: Gunther leveled to 2 before setting out. HP 7→15
+(1d8=7 roll, +1 Dwarven Toughness), a third level-1 slot, and Channel
+Divinity: Divine Spark unlocked — 1d8+Wis, heal or Radiant/Necrotic on a
+failed Con save, once per rest.)*
 
 **Verse:** "Answers 44: A trail found is a debt owed to whoever left it.
 Follow it honestly, and pay it forward when you can."

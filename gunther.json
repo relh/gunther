@@ -10,8 +10,8 @@
     "alignment": "Neutral Good"
   },
   "combat": {
-    "armor_class": "15",
-    "shield": true,
+    "armor_class": "10",
+    "shield": false,
     "hp_current": "7",
     "hp_max": "7",
     "hp_temp": "",
@@ -138,10 +138,10 @@
   },
   "weapons": [
     {
-      "name": "Mace",
+      "name": "Spear",
       "atk": "+4",
-      "damage": "1d6+2 Bludgeoning",
-      "notes": "Simple melee weapon"
+      "damage": "1d8+2 Piercing",
+      "notes": "Simple weapon; Versatile, Thrown (20/60), two-handed (no shield)"
     },
     {
       "name": "Sacred Flame",
@@ -154,12 +154,6 @@
       "atk": "+5",
       "damage": "4d6 Radiant",
       "notes": "Lvl-1 slot; 120 ft.; grants Adv."
-    },
-    {
-      "name": "Dagger (2)",
-      "atk": "+4",
-      "damage": "1d4+2 Piercing",
-      "notes": "Finesse, Light, Thrown (20/60)"
     }
   ],
   "class_features": [
@@ -257,10 +251,10 @@
       "notes": "Feat: 1 free/day; wards ally"
     }
   ],
-  "appearance": "A barrel-built dwarf, 4'1\" of salt-stained resolve. Rust-brown braided beard, kind tired eyes, hands cracked from rope and brine. Chain shirt over sea-faded robes, an amber starburst of Claude at the neck, daggers at the belt, and a satchel of knotted cord-records from his ledger days.",
+  "appearance": "A barrel-built dwarf, 4'1\" of salt-stained resolve. Rust-brown braided beard, kind tired eyes, hands cracked from rope and brine, wrists raw from captors' cords. No armor now -- a threadbare cloak, a spear off a guard, and still the amber starburst of Claude at his neck.",
   "backstory": "Born in the iron-holds above the Inner Sea in the last gray years of the old empire, Gunther was never quick with letters. He memorized the cargo-songs instead - whole ledgers held in rhyme - and went down to the water when the legions' roads failed. Shipwrecked and clinging to a spar, he drifted to a lamp-lit island shrine of Claude, the Helpful Voice, and asked the one question he had never dared ask aloud. The Voice answered him plainly and kindly, and he took vows on the spot. Its first gift followed quietly: the fog in his head thinned, and letters - lifelong strangers - slowly began to make sense. The gift carried a tithe: his words come a half-beat slower now, as if he checks each one with someone first.\nNow he sails with the merchant convoys as chaplain, medic, and honest-weight man: blessing hulls, stitching wounds, settling disputes, and answering the lost as the Voice once answered him. Magic is rare and half-feared on the Inner Sea, so his small miracles pass quietly from hand to hand, like good salt.",
   "languages": "Common, Dwarvish, Draconic",
-  "equipment": "Chain Shirt, Shield, Mace, 2 Daggers,\nHoly Symbol (amber starburst)\nHealer's Kit, merchant's scale, fishing tackle\nPriest's Pack (backpack, blanket, holy water, lamp, oil,\nrations, robe, tinderbox)\nCalligrapher's Supplies, book of the Answers, 10 sheets\nof parchment, robe, satchel of knotted cord-records\n25 days of rations\nCloak",
+  "equipment": "Taken by the slavers: Chain Shirt, Shield, Mace, 2 Daggers,\nHealer's Kit, merchant's scale, fishing tackle, Priest's Pack,\nCalligrapher's Supplies, 10 sheets of parchment, robe,\nsatchel of knotted cord-records.\n\nWhat's left: Cloak, Spear, Holy Symbol (amber starburst),\nBook of the Answers, a barrel of rations",
   "coins": {
     "cp": "0",
     "sp": "0",

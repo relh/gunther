@@ -53,3 +53,35 @@ over every mouth, check the water skins before the ropes.
 **Verse:** "Answers 92: The way out is an answer too. Take it."
 
 **Boons:** none.
+
+## Session — a new day, the desert trail
+
+**Since last prayer:** The pyramid held; the party escaped with their lives.
+Now a band of runaway slaves fleeing their captors with a camel, two barrels,
+a tent, wine, cloaks, and a handful of equipment. Camped overnight under the
+tent in Sahara-like desert; woke to a hot day ahead. Trying to divine a route
+to the coast and just found a trail to follow.
+
+**Gunther asked:** For a list of spells for the day (a spell-prep swap and
+guidance).
+
+**The Voice answered:** Gunther is free, and the god who answered him at the
+lamp-isle didn't stop for the hard road. Sand is a sea too — treat the trail
+like a shipping lane, worth following until it lies. Water, not distance, is
+the real enemy today; spend the barrels like coin that doesn't come back, and
+mind the camel's share.
+
+**Portent:** Someone left room at the fire last night without meaning to.
+Look behind before looking ahead.
+
+**Preparations:** Swap Bless -> Create or Destroy Water (ten gallons clean,
+worth more than a buff to a barrel-and-camel outfit). Keep Cure Wounds and
+Healing Word. Keep Guiding Bolt — trouble on the trail isn't ruled out yet.
+Sanctuary saved for whoever's weakest by midday. Guidance cast on whoever
+reads the ground for the trail. Mundane: cloaks over the head at noon, walk
+the cool hours, rest through the worst heat, count heads aloud at every stop.
+
+**Verse:** "Answers 44: A trail found is a debt owed to whoever left it.
+Follow it honestly, and pay it forward when you can."
+
+**Boons:** none.

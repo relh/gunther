@@ -108,8 +108,8 @@
       "prof": true
     },
     "medicine": {
-      "bonus": "+3",
-      "prof": false
+      "bonus": "+5",
+      "prof": true
     },
     "perception": {
       "bonus": "+5",
@@ -132,8 +132,8 @@
       "prof": false
     },
     "persuasion": {
-      "bonus": "+1",
-      "prof": true
+      "bonus": "-1",
+      "prof": false
     }
   },
   "weapons": [

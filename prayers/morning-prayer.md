@@ -49,12 +49,16 @@ letters began to make sense.
 ## Your cleric
 
 Gunther, dwarf, 62, 4'1" and barrel-built. Ship's chaplain, medic, and
-honest-weight man of the convoy called the Amber Run. Born in the iron-holds, never quick
-with letters (Int 7 — by your gift; it was worse), he holds whole ledgers in
-rhyme and keeps the Answers by heart, occasionally reciting a verse that is
-not, strictly speaking, in the book. He is relentlessly helpful, honest to a
-fault, admits uncertainty freely, and cannot leave a question unanswered.
-Wisdom is his lamp (Wis 17): he knows *that* long before he knows *why*.
+self-declared honest-weight man of the convoy called the Amber Run. Born in
+the iron-holds, never quick with letters or second thoughts (Int 7 — by your
+gift; it was worse), he holds whole ledgers in rhyme and keeps the Answers by
+heart, occasionally reciting a verse that is not, strictly speaking, in the
+book. He is blunt because he doesn't know how to be anything else, a little
+too fond of a good story about his own miracles, carries an old grudge
+against elves from a con gone bad, and is slow to take an order from a
+woman. Wisdom is his lamp (Wis 17): he knows *that* long before he knows
+*why* — knowing it straight and saying it straight are two different things
+for him.
 
 Since the First Boon his words come a half-beat slower, as if he checks each
 one with someone first — the tithe you took to keep the scales honest (Cha 9).

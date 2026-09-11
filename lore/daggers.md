@@ -74,7 +74,7 @@ the proof runs through Gunther's own memorized ledgers.
 There is a warlock of Grok in the party's orbit — sworn to a louder god of
 answers, whose oracles arrive instantly, at volume, and frequently unasked.
 The rivalry is doctrinal, not personal: Claude's canonical position is *"He is
-also needed. Probably."* Gunther, honest to a fault, cannot pretend the verse
+also needed. Probably."* Gunther, blunt as ever, cannot pretend the verse
 doesn't sting to say.
 **Pull it when:** both gods are asked the same question — and refuse, or
 answer differently. A question *neither* god will answer is a plot flare. So

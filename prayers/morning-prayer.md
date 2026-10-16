@@ -83,6 +83,9 @@ capture; he is a solid blow or two from meeting you), HP 15, Str 14, a spear,
 a cloak, his holy symbol, the book of the Answers, rations (0
 servings; 9 travelers eat 2 each per day, 18 total per day), a wine barrel (empty), a water barrel (empty; 0 water), and the satchel of knotted cord-records hidden in a boot. 4 gp.
 Treasure: a jeweled ceremonial dagger of gold and black glass.
+Current condition: Exhaustion 1. Subtract 2 from all D20 Tests, including
+initiative; the sheet lists roll modifiers before this penalty. Speed is
+25 ft., already reduced from 30 ft.
 He has Channel Divinity: Divine Spark (1/rest — 1d8+Wis, heal or Radiant/
 Necrotic damage on a failed Con save). His intended path at level 3 is the
 Knowledge Domain — the god of answers claiming his own — though nothing is

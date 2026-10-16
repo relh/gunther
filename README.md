@@ -73,7 +73,8 @@ smaller type so long entries don't clip.
 | Background | Acolyte (Insight, Religion, Calligrapher's Supplies, Magic Initiate: Cleric) |
 | Species | Dwarf (Darkvision 120 ft., Dwarven Resilience, Dwarven Toughness, Stonecunning) |
 | Abilities | Str 14, Dex 10, Con 11, Int 7, **Wis 17**, Cha 9 |
-| Combat | AC 10 (no armor — taken at capture), HP 15, Initiative +0, Speed 30 ft. |
+| Combat | AC 10 (no armor — taken at capture), HP 15, Initiative +0 before exhaustion, Speed 25 ft. |
+| Condition | Exhaustion 1: subtract 2 from all D20 Tests, including initiative; listed roll modifiers are before this penalty. Speed already reduced by 5 ft. |
 | Weapons | Spear +4 (1d8+2, versatile/thrown), Divine Spark (1d8+3 heal or Rad/Necro dmg, Con save, 1/rest) |
 | Kit | Cloak, Holy Symbol, Book of the Answers, rations (0 servings; 2 per person/day for 9 travelers, 18/day total), wine barrel (empty), water barrel (empty; 0 water), satchel of knotted cord-records (hidden in a boot) (4 gp remain) |
 | Convoy | The Amber Run; affiliated with the Lampkeepers of Lucerna |

@@ -18,7 +18,8 @@
     "hit_dice_max": "2d8",
     "hit_dice_spent": "0",
     "initiative": "+0",
-    "speed": "30 ft.",
+    "speed": "25 ft.",
+    "exhaustion_level": "1",
     "size": "Medium",
     "passive_perception": "15",
     "proficiency_bonus": "+2",
@@ -163,7 +164,7 @@
     }
   ],
   "class_features": [
-    "SPELLCASTING (Wisdom). Cantrips always ready; 5 prepared level-1 spells, swap one on Long Rest. Holy Symbol (amber starburst of Claude) as focus. Can cast prepared spells with the Ritual tag as rituals.",
+    "EXHAUSTION 1: subtract 2 from all D20 Tests (including initiative). Apply to listed roll modifiers. Speed 25 ft. (already reduced from 30).\n\nSPELLCASTING (Wisdom). Cantrips always ready; 5 prepared level-1 spells, swap one on Long Rest. Holy Symbol (amber starburst of Claude) as focus. Can cast prepared spells with the Ritual tag as rituals.",
     "DIVINE ORDER: PROTECTOR. Trained for battle: proficiency with Martial weapons and training with Heavy armor.\n\nCHANNEL DIVINITY (1/Rest): DIVINE SPARK. Magic action; point Holy Symbol at a creature within 30 ft. Roll 1d8+Wis: heal that creature that much, or it makes a Con save, taking Radiant or Necrotic damage (your choice) equal to the roll, half on a success."
   ],
   "species_traits": "DWARF (2024)\n- Darkvision 120 ft.\n- Dwarven Resilience: resist Poison; Adv. on saves vs. Poisoned.\n- Dwarven Toughness: +1 HP per level (included).\n- Stonecunning: Tremorsense 60 ft. on stone, Prof. Bonus/Long Rest.",

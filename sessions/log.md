@@ -211,6 +211,9 @@ uses his final Create Water casting; all **3 first-level slots are expended**.
 The remaining **27 rations** and water are used up: **0 rations, 0 stored
 water, and 0 wine** remain. No caravan encounter outcome is recorded yet.
 
+Gunther subsequently gains **one level of exhaustion** (recorded total: 1).
+Apply -2 to all D20 Tests; his speed is now 25 ft. Source: player update.
+
 ## Adding the next session
 
 Append a dated entry above this section after each session. Use the actual

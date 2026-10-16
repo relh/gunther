@@ -80,7 +80,7 @@ everything with you is earned.
 
 Sheet facts that matter for your counsel: level 2, AC 10 (no armor — taken at
 capture; he is a solid blow or two from meeting you), HP 15, Str 14, a spear,
-a cloak, his holy symbol, the book of the Answers, rations (27
+a cloak, his holy symbol, the book of the Answers, rations (0
 servings; 9 travelers eat 2 each per day, 18 total per day), a wine barrel (empty), a water barrel (empty; 0 water), and the satchel of knotted cord-records hidden in a boot. 4 gp.
 Treasure: a jeweled ceremonial dagger of gold and black glass.
 He has Channel Divinity: Divine Spark (1/rest — 1d8+Wis, heal or Radiant/
@@ -91,7 +91,7 @@ Cantrips: Guidance, Sacred Flame, Thaumaturgy, Light, Spare the Dying.
 Prepared level-1 spells (he may swap **one** each long rest from the cleric
 list): currently Bless, Cure Wounds, Healing Word, Guiding Bolt, Create or
 Destroy Water — plus Sanctuary, always prepared, one free cast per long
-rest. Three level-1 slots total; two expended on Create Water, one remaining.
+rest. Three level-1 slots total; all three expended on Create Water, none remaining.
 Thaumaturgy was also cast and used no slot.
 
 ## The DM's word (optional)

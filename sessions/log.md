@@ -196,13 +196,20 @@ cast in this recording.
 
 - Both wine and water barrels are empty. This confirms the already-recorded
   inventory change; no second deduction is applied.
-- Food discussion alternates between 18 and 27 servings. The sheet stays at
+- Food discussion alternates between 18 and 27 servings. At the recording endpoint, the sheet remained at
   **27**, matching the player's explicit instruction to deduct 18 from 45.
   Confirm with the DM if the table settled on a different count.
 - An existing exhaustion level is mentioned, but the affected character is
   unclear. No new exhaustion is assigned from this transcript.
 - The garrison and tribal army sizes remain estimates, and the outcome of
   the earlier confrontation with apparent fellow escapees is still missing.
+
+### Player update — approaching the caravan
+
+After the recording, the party is now approaching the caravan. Gunther
+uses his final Create Water casting; all **3 first-level slots are expended**.
+The remaining **27 rations** and water are used up: **0 rations, 0 stored
+water, and 0 wine** remain. No caravan encounter outcome is recorded yet.
 
 ## Adding the next session
 

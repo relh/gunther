@@ -75,12 +75,12 @@ smaller type so long entries don't clip.
 | Abilities | Str 14, Dex 10, Con 11, Int 7, **Wis 17**, Cha 9 |
 | Combat | AC 10 (no armor — taken at capture), HP 15, Initiative +0, Speed 30 ft. |
 | Weapons | Spear +4 (1d8+2, versatile/thrown), Divine Spark (1d8+3 heal or Rad/Necro dmg, Con save, 1/rest) |
-| Kit | Cloak, Holy Symbol, Book of the Answers, rations (27 servings; 2 per person/day for 9 travelers, 18/day total), wine barrel (empty), water barrel (empty; 0 water), satchel of knotted cord-records (hidden in a boot) (4 gp remain) |
+| Kit | Cloak, Holy Symbol, Book of the Answers, rations (0 servings; 2 per person/day for 9 travelers, 18/day total), wine barrel (empty), water barrel (empty; 0 water), satchel of knotted cord-records (hidden in a boot) (4 gp remain) |
 | Convoy | The Amber Run; affiliated with the Lampkeepers of Lucerna |
 | Cantrips | Guidance, Sacred Flame, Thaumaturgy, Light*, Spare the Dying* |
 | Prepared | Bless, Cure Wounds, Healing Word, Guiding Bolt, Create Water, Sanctuary* |
 | Treasure | Jeweled ceremonial dagger of gold and black glass |
-| Level-1 slots | 3 total; 2 expended, 1 remaining (two casts of Create Water; Thaumaturgy used no slot) |
+| Level-1 slots | 3 total; 3 expended, 0 remaining (three casts of Create Water; Thaumaturgy used no slot) |
 | Languages | Common, Dwarvish, Draconic |
 
 \* from Magic Initiate (Cleric), Wisdom-based; Sanctuary free once per Long Rest.

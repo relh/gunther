@@ -13,6 +13,9 @@ speaking, in the book.
 
 - **Canonical data:** [`gunther.json`](gunther.json)
 - **Rendered sheet:** [`Gunther-character-sheet.pdf`](Gunther-character-sheet.pdf)
+- **Journey / session log:** [`sessions/log.md`](sessions/log.md) — the escape,
+  desert journey, and a running record for future sessions; source transcripts
+  live in `sessions/transcripts/`.
 - **D&D Beyond:** <https://www.dndbeyond.com/characters/169136089>
   *(snapshot from character creation — no longer kept in sync)*
 - **Lore — the god & his temple:** [`lore/the-helpful-voice.md`](lore/the-helpful-voice.md) —

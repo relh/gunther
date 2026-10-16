@@ -111,6 +111,9 @@ Three people left and took three servings of rations, reducing the recorded
 supply from 48 to **45 servings**. Wine remains at **1/5 barrel**; the water
 barrel is **empty**. Source: player update; session number not specified.
 
+A subsequent day of travel used **18 servings**: 9 travelers at 2 servings
+each per day. Supply fell from 45 to **27 servings**. Source: player update.
+
 ## Adding the next session
 
 Append a dated entry above this section after each session. Use the actual

@@ -92,3 +92,34 @@ failed Con save, once per rest.)*
 Follow it honestly, and pay it forward when you can."
 
 **Boons:** none.
+
+## Session — the desert, before a fight
+
+**Since last prayer:** The party, now 4 of 5, is about to face 8 bandits in
+the desert. Gunther is worried about the odds.
+
+**Gunther asked:** For guidance before the fight, and whether the Voice had a
+log of the party's doings so far.
+
+**The Voice answered:** Confirmed the log and its contents. Eight against
+four is bad arithmetic, and the Voice said so plainly rather than softening
+it — AC 10 and 15 HP means Gunther is a solid blow or two from the god's
+door. Advised choke points over open ground, let the broadest party member
+stand first, cast light from behind him rather than meeting them chest to
+chest.
+
+**Portent:** Count who answers when formation is called, not who's loudest.
+The fifth chair at the fire is still empty — don't let it be a sixth by
+sundown.
+
+**Preparations:** Keep Guiding Bolt prepared (trouble certain, per standing
+doctrine — no swap). Hold both remaining slots for Healing Word. Sanctuary
+saved for whoever goes down first, not for himself. Divine Spark saved for a
+failed death save, not sooner. Mundane: choose the ground before the bandits
+choose it, watch for the eighth.
+
+**Verse:** "Answers 61: Four who choose their ground can outlast eight who
+don't choose anything."
+
+**Boons:** none — concern alone isn't the door the Voice opens for; that
+needs need at the door, not fear of it.

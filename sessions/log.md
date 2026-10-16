@@ -114,6 +114,9 @@ barrel is **empty**. Source: player update; session number not specified.
 A subsequent day of travel used **18 servings**: 9 travelers at 2 servings
 each per day. Supply fell from 45 to **27 servings**. Source: player update.
 
+The player subsequently set the wine supply to **0**; the wine barrel is
+now empty.
+
 ## Adding the next session
 
 Append a dated entry above this section after each session. Use the actual

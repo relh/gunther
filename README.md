@@ -14,7 +14,7 @@ speaking, in the book.
 - **Canonical data:** [`gunther.json`](gunther.json)
 - **Rendered sheet:** [`Gunther-character-sheet.pdf`](Gunther-character-sheet.pdf)
 - **Journey / session log:** [`sessions/log.md`](sessions/log.md) — the escape,
-  desert journey, and a running record for future sessions; source transcripts
+  desert journey, fortified oasis, and caravan plans; edited campaign transcripts
   live in `sessions/transcripts/`.
 - **D&D Beyond:** <https://www.dndbeyond.com/characters/169136089>
   *(snapshot from character creation — no longer kept in sync)*

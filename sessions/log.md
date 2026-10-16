@@ -117,6 +117,93 @@ each per day. Supply fell from 45 to **27 servings**. Source: player update.
 The player subsequently set the wine supply to **0**; the wine barrel is
 now empty.
 
+## 2026-10-15 — the fortified oasis and the caravan
+
+**Source:** [California St 2 — edited campaign transcript](transcripts/2026-10-15-california-st-2.md),
+recorded during play. Session number is unconfirmed. The recording begins
+mid-discussion; it does not cover the resolution of the encounter at the end
+of Session 2.
+
+### A way to feed nine travelers
+
+Nine of us were travelling toward a fortified oasis, short of food and water.
+We discussed ambushing a supply caravan for provisions and equipment. Passing
+ourselves off as soldiers or slipping into the fort with a caravan sounded
+risky while we still looked like escaped slaves.
+
+Prim sent her hawk familiar ahead. The oasis was about eight hours away at
+our pace, with several paths through its palisade. Nearby dunes offered cover
+and views of individual approaches, but no position overlooked every entrance.
+The hawk also spotted movement northeast of the oasis and went to investigate.
+
+We rested through the heat beneath our sheet tent, propped up on spears.
+Elementalism provided some cooling air and water spray, but the sandy,
+uncomfortable shelter earned only a short rest. Our fellow escapees were
+uneasy about approaching soldiers; a carefully chosen caravan seemed a more
+manageable target than the garrison.
+
+### Two armies near the water
+
+Prim recalled that an empire and a confederation of desert tribes had been
+at war for about a decade. We appeared to be near the front line of a bloody
+stalemate. Oases were fought over for water and as bases for troops and
+supplies. The damaged oasis ahead appeared to be occupied and fortified by
+the imperial side. The faction names need confirmation from the DM; the
+automatic transcript is inconsistent.
+
+The hawk returned with news of a larger tribal camp northeast of the oasis,
+roughly four or five hours' walk from it. It held more soldiers and many
+camels, with less fortification and more effort to stay hidden. We considered
+setting the armies against each other, but did not carry out that plan.
+The hawk also recalled movement to the south, possibly a caravan.
+
+By evening we had finished the water and the remaining wine. Both barrels
+were empty, and the camel was beginning to thirst. Gunther kept his final
+spell slot in reserve. We headed east, favoring a southern approach to the
+oasis and hoping to intercept the moving group.
+
+### The dead in the dunes
+
+A traveler stumbled over a dried corpse. Looking around revealed an old
+battlefield: bodies half-buried in the sand, wrecked carts, and dead camels.
+The useful equipment had already been taken. We could tell two sides had
+fought here, but not who had won or exactly how long ago.
+
+Remembering the pyramid, we crossed cautiously and quietly. None of the
+bodies moved. Farther on, there seemed to be faint lights back toward the
+battlefield, but nothing clear remained when we looked directly.
+
+### Ten carts, at least twelve guards
+
+From a tall dune we finally saw the oasis, its circular palisade, and guarded
+checkpoints on the approaches. Prim changed her familiar into an owl with
+the DM's permission and sent it to examine the southern movement. This time
+it confirmed a caravan: **roughly ten camel-drawn carts and at least twelve
+armed guards**.
+
+We favored intercepting it before it reached the garrison's protection.
+Some companions doubted that nine hungry, poorly armored escapees could win
+that fight. Gunther tried to intimidate a doubter into confidence, rolled a
+one, and managed to hit himself in the face and fall over. The attempt drew
+amusement rather than fear. Another attempt at persuasion was proposed.
+
+**Where we stopped:** outside the fortified oasis at night, still debating
+the caravan ambush. No attack or captured loot is recorded. Gunther still
+has **one first-level spell slot**; his proposed final Create Water was not
+cast in this recording.
+
+**Resources and unresolved details:**
+
+- Both wine and water barrels are empty. This confirms the already-recorded
+  inventory change; no second deduction is applied.
+- Food discussion alternates between 18 and 27 servings. The sheet stays at
+  **27**, matching the player's explicit instruction to deduct 18 from 45.
+  Confirm with the DM if the table settled on a different count.
+- An existing exhaustion level is mentioned, but the affected character is
+  unclear. No new exhaustion is assigned from this transcript.
+- The garrison and tribal army sizes remain estimates, and the outcome of
+  the earlier confrontation with apparent fellow escapees is still missing.
+
 ## Adding the next session
 
 Append a dated entry above this section after each session. Use the actual

@@ -80,8 +80,8 @@ everything with you is earned.
 
 Sheet facts that matter for your counsel: level 2, AC 10 (no armor — taken at
 capture; he is a solid blow or two from meeting you), HP 15, Str 14, a spear,
-a cloak, his holy symbol, the book of the Answers, a barrel of rations (69
-servings), and the satchel of knotted cord-records hidden in a boot. 4 gp.
+a cloak, his holy symbol, the book of the Answers, rations (48
+servings), a wine barrel (1/5 full), a water barrel (empty; 0 water), and the satchel of knotted cord-records hidden in a boot. 4 gp.
 He has Channel Divinity: Divine Spark (1/rest — 1d8+Wis, heal or Radiant/
 Necrotic damage on a failed Con save). His intended path at level 3 is the
 Knowledge Domain — the god of answers claiming his own — though nothing is

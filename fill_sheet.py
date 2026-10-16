@@ -126,6 +126,8 @@ def build_fields(c: dict) -> tuple[dict, dict]:
         "Text268": c["coins"]["ep"], "Text269": c["coins"]["gp"],
         "Text270": c["coins"]["pp"],
     }
+    for i, field in enumerate(("Check Box227", "Check Box228", "Check Box229", "Check Box230")):
+        p2[field] = "/Yes" if i < int(sc.get("slots_level_1_expended", "0")) else "/Off"
     for i, sp in enumerate(c["spells"][:30]):
         p2[f"Text105.{i}"] = sp["level"]
         p2[f"Text106.{i}"] = sp["name"]

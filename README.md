@@ -79,6 +79,7 @@ smaller type so long entries don't clip.
 | Convoy | The Amber Run; affiliated with the Lampkeepers of Lucerna |
 | Cantrips | Guidance, Sacred Flame, Thaumaturgy, Light*, Spare the Dying* |
 | Prepared | Bless, Cure Wounds, Healing Word, Guiding Bolt, Create Water, Sanctuary* |
+| Level-1 slots | 3 total; 1 expended, 2 remaining (Create Water; Thaumaturgy used no slot) |
 | Languages | Common, Dwarvish, Draconic |
 
 \* from Magic Initiate (Cleric), Wisdom-based; Sanctuary free once per Long Rest.

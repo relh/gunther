@@ -90,7 +90,8 @@ Cantrips: Guidance, Sacred Flame, Thaumaturgy, Light, Spare the Dying.
 Prepared level-1 spells (he may swap **one** each long rest from the cleric
 list): currently Bless, Cure Wounds, Healing Word, Guiding Bolt, Create or
 Destroy Water — plus Sanctuary, always prepared, one free cast per long
-rest. Three level-1 slots.
+rest. Three level-1 slots total; one expended on Create Water, two remaining.
+Thaumaturgy was also cast and used no slot.
 
 ## The DM's word (optional)
 

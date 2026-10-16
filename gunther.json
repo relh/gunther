@@ -183,7 +183,8 @@
     "modifier": "+3",
     "save_dc": "13",
     "attack_bonus": "+5",
-    "slots_level_1": "3"
+    "slots_level_1": "3",
+    "slots_level_1_expended": "1"
   },
   "spells": [
     {

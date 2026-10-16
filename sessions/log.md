@@ -105,6 +105,12 @@ Their identities and motives remain unconfirmed.
 
 ---
 
+## Supply update — 2026-10-15
+
+Three people left and took three servings of rations, reducing the recorded
+supply from 48 to **45 servings**. Wine remains at **1/5 barrel**; the water
+barrel is **empty**. Source: player update; session number not specified.
+
 ## Adding the next session
 
 Append a dated entry above this section after each session. Use the actual

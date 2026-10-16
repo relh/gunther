@@ -214,6 +214,78 @@ water, and 0 wine** remain. No caravan encounter outcome is recorded yet.
 Gunther subsequently gains **one level of exhaustion** (recorded total: 1).
 Apply -2 to all D20 Tests; his speed is now 25 ft. Source: player update.
 
+## 2026-10-15 — seven bolting camels and an offer of food
+
+**Source:** [California St 3 — edited campaign transcript](transcripts/2026-10-15-california-st-3.md).
+Continuation of the caravan approach; session number remains unconfirmed.
+
+### Everything we had left
+
+We went toward the caravan rather than waiting for it to reach the oasis.
+Gunther raised his hands to the Helpful Voice and made the last water his
+magic could supply. We drank and finished the remaining 27 rations. After
+roughly thirteen hours of marching, exhaustion was catching up with everyone.
+
+Some of us wondered whether we should join the caravan instead of robbing it.
+The DM clarified that the pyramid's slave camp had not been directly run by
+the empire. These guards were not necessarily the people we had escaped.
+Still, none of us wanted to risk becoming slaves again.
+
+### Wolves that were not there
+
+We settled on a trick: Prim would warn the camels of wolves using Speak with
+Animals, and Gunther would supply the howl with Thaumaturgy. If the caravan
+split and the guards chased their animals, we might take supplies without
+having to defeat them all. Even one loaded camel would be enough to help.
+
+We gathered on a ten-foot rocky ledge near the rear of the caravan. Up close,
+the guards looked rested, alert, and well armored. One spotted us and shouted
+before we could spring the ambush. We rolled initiative without the surprise
+we had hoped for.
+
+Prim warned the camels, and her owl swooped and screeched. A companion tried
+Mind Sliver on the guard who had raised the alarm, but he resisted it. The
+veteran leading the caravan advanced with a sword and demanded that we put
+down our weapons and come down. His guards formed up between us and the carts.
+
+Then Gunther made his wolf howl from behind the rise. **Seven of twelve camels
+failed their saves and bolted in different directions.** Some guards gave
+chase. Gunther called out that wolves were pursuing us: we were lost souls
+in the desert, not a threat. His Deception check came to **16**, after the
+Charisma and exhaustion penalties.
+
+### A meal instead of a battle
+
+It was morning by then, and the veteran doubted the story about wolves. But
+he could see how desperate we were. He offered food if we helped defend
+against the supposed wolves or recover the camels. We would have to give up
+our weapons.
+
+Our companions urged us to accept. Natho, Cella, and Callus—the names as
+transcribed, with spellings still unconfirmed—put their weapons down. Gunther
+was ready to abandon the fight, and the group began descending. Prim remained
+on the ledge a moment longer, then reluctantly came down as well.
+
+**Where we stopped:** the ambush has been abandoned. Everyone has come down
+from the ledge to deal with the caravan guards, who have offered food on
+condition of cooperation and surrendering weapons. No successful damaging
+attack or casualty is recorded.
+
+**Changes and open threads:**
+
+- The final Create Water casting and consumption of 27 rations confirm the
+  earlier player updates. They are not deducted again. Gunther has **0 of 3
+  spell slots remaining**, **0 rations**, **0 stored water**, and **0 wine**.
+- Gunther's separately confirmed **Exhaustion 1** remains the recorded total.
+  The group exhaustion discussion does not establish a second level for him.
+- Thaumaturgy's wolf howl used no spell slot. Prim's Speak with Animals and
+  the companion's failed Mind Sliver are recorded as actions taken.
+- The veteran demanded weapons, and several companions put theirs down.
+  Gunther's precise weapon handover is not shown, so his spear and ceremonial
+  dagger remain on the sheet pending confirmation of what was taken.
+- Food is promised, not yet received. Helping recover the camels, the guards'
+  treatment of the party, and the next destination remain unresolved.
+
 ## Adding the next session
 
 Append a dated entry above this section after each session. Use the actual

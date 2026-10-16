@@ -79,6 +79,7 @@ smaller type so long entries don't clip.
 | Convoy | The Amber Run; affiliated with the Lampkeepers of Lucerna |
 | Cantrips | Guidance, Sacred Flame, Thaumaturgy, Light*, Spare the Dying* |
 | Prepared | Bless, Cure Wounds, Healing Word, Guiding Bolt, Create Water, Sanctuary* |
+| Treasure | Jeweled ceremonial dagger of gold and black glass |
 | Level-1 slots | 3 total; 2 expended, 1 remaining (two casts of Create Water; Thaumaturgy used no slot) |
 | Languages | Common, Dwarvish, Draconic |
 
